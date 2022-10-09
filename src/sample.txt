@@ -1,1 +1,1 @@
-Hello this is sample test for git. we added new home
+Hello this is sample test for git.
